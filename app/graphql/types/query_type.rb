@@ -25,5 +25,6 @@ module Types
     def recipes
       Recipe.all
     end
+
   end
 end
