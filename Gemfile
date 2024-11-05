@@ -44,7 +44,7 @@ end
 
 
 
-gem "graphql", "~> 2.3"
+gem "graphql", "~> 2.4"
 gem "graphiql-rails"
 
 gem "sprockets-rails", "~> 3.5"
